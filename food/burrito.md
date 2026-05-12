@@ -1,0 +1,7 @@
+-tortilla
+-cheese
+-shredded chicken
+-plaintains
+-rice
+-beans
+-avacado
