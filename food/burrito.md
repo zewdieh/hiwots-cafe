@@ -1,7 +1,7 @@
--tortilla
--cheese
--shredded chicken
--plantains
--rice
--beans
--avocado
+- tortilla
+- cheese
+- shredded chicken
+- plantains
+- rice
+- beans
+- avocado
